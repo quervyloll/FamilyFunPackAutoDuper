@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "family_fun_pack.mixins",
+  "refmap": "mixins.autodupe.refmap.json",
+  "mixins": [
+    "MixinGuiMainMenu",
+    "MixinAbstractHorse",
+    "MixinEntityLlama",
+    "MixinEntityPig"
+  ],
+  "client": [
+  ]
+}

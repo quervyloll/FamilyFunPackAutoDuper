@@ -1,3 +1,8 @@
+Important notes before becoming rich:
+The donkey you are riding must be nametagged
+Turn off no slow on all clients otherwise you won't move
+You cannot be using lambda client when using this version to ffp
+
 How to use the auto duper:
 
 1. If you have FFP installed, remove it and replace with the autodupe mod.
@@ -8,8 +13,7 @@ How to use the auto duper:
 6. Do <.end 2> and <.chest 2> at the other end of the duping trail, following same rules.
 6. Make sure you nametag the donkey you will be riding between ends.
 7. Do <.ad> near the donkey you're going to be riding to start inflating the economy!
-DONKEY YOU RIDE HAS TO BE NAMETAGGED
-(!)NOTE MAKE SURE NO SLOW IS TURNED OFF IN ALL CLIENTS OTHERWISE YOU WON'T MOVE(!)
+
 All commands:
 .ad (To start the autoduper)
 .filldelay (in ms, id put )

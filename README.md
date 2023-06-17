@@ -1,7 +1,7 @@
 Important notes before becoming rich:
-The donkey you are riding must be nametagged
-Turn off no slow on all clients otherwise you won't move
-You cannot be using lambda client when using this version to ffp
+1. The donkey you are riding must be nametagged
+2. Turn off no slow on all clients otherwise you won't move
+3. You cannot be using lambda client when using this version to ffp
 
 How to use the auto duper:
 
@@ -25,7 +25,7 @@ All commands:
 
 Here's the config I would personally use:
 .delay 2
-filldelay 90
+.filldelay 90
 .checkitems should be true
 .kickdelay 0
 .debug true

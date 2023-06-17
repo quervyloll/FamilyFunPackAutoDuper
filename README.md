@@ -9,7 +9,7 @@ How to use the auto duper:
 6. Make sure you nametag the donkey you will be riding between ends.
 7. Do <.ad> near the donkey you're going to be riding to start inflating the economy!
 DONKEY YOU RIDE HAS TO BE NAMETAGGED
-
+(!)NOTE MAKE SURE NO SLOW IS TURNED OFF IN ALL CLIENTS OTHERWISE YOU WON'T MOVE(!)
 All commands:
 .ad (To start the autoduper)
 .filldelay (in ms, id put )

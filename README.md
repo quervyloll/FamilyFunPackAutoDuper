@@ -1,4 +1,4 @@
-Important notes before becoming rich:
+# Important notes before becoming rich:
 1. The donkey you are riding must be nametagged
 2. Turn off no slow on all clients otherwise you won't move
 3. You cannot be using lambda client when using this version of ffp
